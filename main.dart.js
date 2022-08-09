@@ -35621,7 +35621,7 @@ s===$&&A.b()
 return s}}
 A.Rh.prototype={
 SO(){var s,r,q=A.aru()
-q.nb$="http://localhost:3002/api/"
+q.nb$="https://auth-platform-api.herokuapp.com/api/"
 s=new A.Ff(A.a([],t.lC),new A.w0(),new A.w0(),new A.w0())
 r=new A.TL($,s,$,new A.TC(),!1)
 r.Bo$=q
